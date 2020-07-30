@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361856775383",
+    "firebase_url": "https://reactnativemessagingapp-283af.firebaseio.com",
+    "project_id": "reactnativemessagingapp-283af",
+    "storage_bucket": "reactnativemessagingapp-283af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361856775383:android:5efab8645711e624ad2c92",
+        "android_client_info": {
+          "package_name": "com.reactnativemessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361856775383-85an3b88j5sonqhb5npl48ncfpnlkc98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdDUYSh-a4o-Bo1TFtJwTmd7dQ-sftmM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361856775383-85an3b88j5sonqhb5npl48ncfpnlkc98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
